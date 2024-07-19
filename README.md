@@ -44,15 +44,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎉 Achievements
-- Founder of [Dino Code LA] [!https://img.shields.io/badge/DinoCodeLA-blue]
-
-- Relased my own [NPM package](https://www.npmjs.com/package/react-native-sparkle-ai-chat) for react native that could bring AI chat assistant to react native apps!
+- Founder of [Dino Code LA](https://www.linkedin.com/in/lakpriyasenevirathna)
+- Released [Innerwonders App](https://apps.apple.com/us/app/inner-wonders-soundbaths/id1563676774)
 
 ## 📬 Get in Touch
 
-[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakpriya@codescale.lk)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakpriyasenevirathna)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9708440)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lakpriya.senevirathna)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@lakpriya1)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/lakpriya)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walter@dinocodela.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waltercueva)
